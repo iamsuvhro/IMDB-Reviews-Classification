@@ -15,11 +15,17 @@ https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## Converting Text into Vector:
 <pre>
-Converting Text into a vector is the first and most important techniques in NLP. Before explaining this let me give you an example for your better understanding. Suppose I have a dataset with three lines it like this 
+Converting Text into a vector is the first and most important techniques in NLP. 
+Before explaining this let me give you an example for your better understanding. 
+Suppose I have a dataset with three lines it like this 
 R1 - This food is tasty 
 R2 - This food is tasty and affordable
 R3 - This food is not affordable and not so much tasty
-So after reading this dataset, you will understand that R1 & R2 is very much similar than R1 & R3. So then we can write (R1, R2) > (R1, R3). Now if I put this into D- Dimensional space we can say that vector of  R1 and R2 must be closure than R1 and R3, and also if the reviews are similar then the distance will smaller, this process is called Simulation. This is the reason why text converted into Vector.
+So after reading this dataset, you will understand that R1 & R2 is very much similar 
+than R1 & R3. So then we can write (R1, R2) > (R1, R3). Now if I put this into
+D- Dimensional space we can say that vector of  R1 and R2 must be closure than 
+R1 and R3, and also if the reviews are similar then the distance will smaller, 
+this process is called Simulation. This is the reason why text converted into Vector.
 </pre>
 
 ## Data Cleaning:
@@ -34,3 +40,9 @@ So after reading this dataset, you will understand that R1 & R2 is very much sim
   <li>Word2Vector</li>
  </ul>
  
+## Converting Text into Vector:
+Converting Text into a vector is the first and most important techniques in NLP. Before explaining this let me give you an example for your better understanding. Suppose I have a dataset with three lines it like this 
+R1 - This food is tasty 
+R2 - This food is tasty and affordable
+R3 - This food is not affordable and not so much tasty
+So after reading this dataset, you will understand that R1 & R2 is very much similar than R1 & R3. So then we can write (R1, R2) > (R1, R3). Now if I put this into D- Dimensional space we can say that vector of  R1 and R2 must be closure than R1 and R3, and also if the reviews are similar then the distance will smaller, this process is called Simulation. This is the reason why text converted into Vector.
