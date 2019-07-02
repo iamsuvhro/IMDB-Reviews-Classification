@@ -1,4 +1,6 @@
 # Sentiment Analysis of IMDB Movie Reviews
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg">
 
 ## Context:
 
