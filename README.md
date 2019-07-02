@@ -9,3 +9,16 @@ IMDB dataset having 50K movie reviews for natural language processing or Text an
 ## Dataset:
 
 https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+## Data Cleaning:
+
+<ul>
+  <li>Bag of words</li>
+  <li>Removing Stopwords</li>
+  <li>Lower Case</li>
+  <li>Stemming</li>
+  <li>Lemmitization</li>
+  <li>TF IDF</li>
+  <li>Word2Vector</li>
+ </ul>
+ 
